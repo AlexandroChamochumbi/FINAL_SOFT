@@ -1,6 +1,6 @@
 # FINAL_SOFT
 
-Pregunta3:
+##Pregunta3:
 Se requiere realizar un cambio en el software para que soporte un valor máximo de 200 soles a transferir
 por día.
 ¿Qué cambiaría en el código (Clases / Métodos)?
